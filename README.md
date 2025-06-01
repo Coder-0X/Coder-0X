@@ -1,0 +1,6 @@
+- 🚀 Hi, I’m @Coder-0X, your friendly neighborhood code ninja!
+- 🎮 I’m interested in Everything Fun—whether it’s gaming, coding, or discovering mind-blowing facts!
+- 🐍 I’m currently wrangling Python (or should I say, "Pythin"? 🤔🐍) and hoping it doesn’t bite me!
+- 🕵️ How to reach me? Aha! That’s classified info… only for the worthy! 😜
+- 😄 Pronouns: he/him—because every legend needs an epic title
+- ⚡ Fun fact: Pineapples were never meant for pizza—yet here we are, living in a world where pineapple vs. no pineapple is practically a personality test. 
