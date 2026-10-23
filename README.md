@@ -34,15 +34,21 @@ I build high-throughput, latency-optimized machine learning pipelines, multimoda
 - **Ecosystem**: Full integration with Jira release hubs, Slack block-kit broadcasts, and Supabase audit logs.
 - **Tech Stack**: Next.js 16, TypeScript, TailwindCSS v4, Google GenAI SDK, Supabase, Jest, Stripe.
 
+### 🩸 [BBMS](https://github.com/Coder-0X/BBMS)
+> **Clinical-Grade Laboratory Information System (LIS) & Hemovigilance Platform**  
+- **Compliance & Safety**: Enforces AABB Technical Manual (22nd ed.), WHO 56-day donation recovery gates, two-ABO determination rules, and Electronic Crossmatching.
+- **Data Integrity**: Tamper-evident **SHA-256 cryptographic hash-chained audit trails**, cold-chain temperature excursion alerts, and AES-256-GCM PII encryption.
+- **Tech Stack**: Python, Django 5.0, PostgreSQL, Argon2, PyOTP (MFA), Cryptography, ReportLab, Pytest (33 test suites).
+
 ### ⚔️ [hangman-royale](https://github.com/Coder-0X/hangman-royale)
 > **Real-Time Multiplayer Word Elimination Game & State Sync Engine**  
 - **Features**: Real-time room lifecycle management, atomic turn resolution, procedural 60fps HTML5 canvas limb drawing, and streak analytics.
 - **Tech Stack**: React 19, Vite, Firebase Realtime Database, Framer Motion, HTML5 Canvas.
 
-### 🩸 [BBMS](https://github.com/Coder-0X/BBMS)
-> **Enterprise Blood Bank Management & Transfusion Safety Platform**  
-- **Features**: Role-based access control, donor eligibility verification, blood stock expiration tracking, and crossmatching workflows.
-- **Tech Stack**: Python, Django, MySQL, Bootstrap 5, Chart.js.
+### 🎓 [programming-academy](https://github.com/Coder-0X/programming-academy)
+> **Interactive Multi-Language Learning Platform (50 Progressive Levels)**  
+- **Features**: Full curricula for HTML, CSS, JavaScript, Java, and Python with hands-on coding challenges, XP point progression, and achievement unlocks.
+- **Tech Stack**: React 18, TypeScript, Vite, Tailwind CSS, Framer Motion.
 
 ---
 
@@ -52,9 +58,9 @@ I build high-throughput, latency-optimized machine learning pipelines, multimoda
 | :--- | :--- |
 | **Languages** | Python, TypeScript, JavaScript, SQL, HTML5/CSS3 |
 | **AI / Machine Learning** | Multimodal Fusion, Cross-Attention Networks, Google Gemini SDK, Representation Learning, Latency Profiling |
-| **Backend & Microservices** | FastAPI, Node.js, Express, Next.js API Routes, WebSockets, RESTful APIs |
+| **Backend & Microservices** | FastAPI, Node.js, Express, Next.js API Routes, Django, WebSockets, RESTful APIs |
 | **Frontend & UI** | React 19, Next.js 16, TailwindCSS, Framer Motion, HTML5 Canvas, Chrome MV3 APIs |
-| **Databases & Cloud** | Supabase (PostgreSQL), Firebase Realtime Database, MySQL, Google Cloud Platform |
+| **Databases & Cloud** | PostgreSQL, Supabase, Firebase Realtime Database, MySQL, Google Cloud Platform |
 | **DevOps & Tooling** | Docker, Docker Compose, GitHub Actions (CI/CD), Git, Jest, Pytest |
 
 ---
